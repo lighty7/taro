@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback } from 'react';
 import StarBackground from './components/StarBackground';
 import SpreadSelector from './components/SpreadSelector';
 import DeckView from './components/DeckView';
